@@ -93,7 +93,7 @@ button {
   animation: fade 1s ease;
 }
 
-@keyframes fade {
+@keyframes fade 
   from { opacity: 0; }
   to { opacity: 1; }
 }
